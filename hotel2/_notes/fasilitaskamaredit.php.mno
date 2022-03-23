@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_fasilitaskamaredit" value="name:nmr_kamar;datatype:int,name:tipe_kamar;datatype:string,name:harga;datatype:string,name:lantai;datatype:string" />
+</info>

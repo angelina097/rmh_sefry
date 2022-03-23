@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_logintamu" value="name:id_tamu;datatype:int,name:nama_tamu;datatype:string,name:alamat;datatype:string,name:username;datatype:string,name:password;datatype:string" />
+	<infoitem key="UD_fasilitaskamar" value="name:nmr_kamar;datatype:int,name:tipe_kamar;datatype:string,name:harga;datatype:string,name:lantai;datatype:string" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_reservasi" value="name:id_reservasi;datatype:int,name:nmr_kamar;datatype:int,name:id_tamu;datatype:int,name:tipe_kamar;datatype:string,name:nama_tamu;datatype:string" />
+	<infoitem key="UD_konfirmasi" value="name:id_reservasi;datatype:int,name:nmr_kamar;datatype:int,name:id_tamu;datatype:int,name:tipe_kamar;datatype:string,name:nama_tamu;datatype:string" />
+</info>
